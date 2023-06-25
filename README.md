@@ -15,7 +15,7 @@ https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-develo
 <li>Run the following commands to install dependencies and start development server.</li>
 
 ```bash
-cd FCC-timestamp-microservice
+cd FCC-request-header-parser
 npm install
 npm run start
 ```
